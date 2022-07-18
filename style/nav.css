@@ -24,3 +24,7 @@ nav > ul > li:hover > ul {
   background-color: cornsilk;
   padding: 0;
 }
+.dropdown li {
+  padding: 0 10px;
+  margin: 0;
+}
